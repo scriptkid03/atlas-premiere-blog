@@ -28,6 +28,7 @@ export default function Hero() {
                 width={500}
                 height={400}
                 alt={"macbook"}
+                priority= {true}
                 className="rounded-l-3xl scale-125 z-0"
               />
             </div>
