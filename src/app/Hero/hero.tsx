@@ -24,7 +24,7 @@ export default function Hero() {
           <div className="flex border-8 h-96 border-white rounded-3xl w-4/6 shadow-2xl">
             <div className="w-1/2 overflow-hidden rounded-l-2xl">
               <Image
-                src="assets/images/MacBook.png"
+                src="assets/images/MacBook.svg"
                 width={500}
                 height={400}
                 alt={"macbook"}
